@@ -24,4 +24,4 @@ on several test cases covering different exploitation scenarios, ranging from si
 learning-based applications. Such an automatic reassembly process is particularly innovative, and it clearly paves the way for smart
 assembly procedures.
 
-![overall](images/overall.png)
+<img src='/images/overall.png'>
