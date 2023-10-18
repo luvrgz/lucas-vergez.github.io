@@ -24,4 +24,4 @@ on several test cases covering different exploitation scenarios, ranging from si
 learning-based applications. Such an automatic reassembly process is particularly innovative, and it clearly paves the way for smart
 assembly procedures.
 
-![alt text](.\images\overall.png "Overall method of the paper")
+![overall](images/overall.png)
