@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-My life began 25 years ago in Montpellier (South of France). Since then I've been doing science and that's why I'm now looking for a Postdoc for January 2025. I'm currently doing a PhD at the Arts et Métiers Institute of Technology, working on the automatic generation of CAD assemblies. I'm passionate about hiking and nature sports, I read a lot of comics, and I'm always up for a drink.
+My life began 25 years ago in Montpellier (South of France). 
+Since then I've been doing science and that's why I'm now looking for a Postdoc for January 2025. 
+I'm currently doing a PhD at the Arts et Métiers Institute of Technology, working on the automatic generation of CAD assemblies. 
+I'm passionate about hiking and nature sports, I read a lot of comics, and I'm always up for a drink.
 
 What I am looking for
 ======
@@ -24,10 +27,14 @@ I'm doing a thesis on automatic generation of CAD assemblies. Automatic CAD mode
 - collision-free kinematic resolution of an assembly
 - interface-based part search
 - automatic semantic classification of parts
-- automatic constraint search....
+- automatic constraint search....  
 I really like my PhD topic and this is why I wouuld like to continue to do research in theses topics.
 
 What I like
 ======
 
-I often go bivouacking in the mountains with my girlfriend to breathe fresh air in the French Alps. I read and draw a lot of comics and manga. I was a top-level kitesurfer for a long time, so I like to get out on the water. And if not, I'm starting to sew and I really like doing it, but I miss having friends to chat with when I'm sewing. In my spare time I also play classical piano and go climbing.
+I often go bivouacking in the mountains with my girlfriend to breathe fresh air in the French Alps. 
+I read and draw a lot of comics and manga. 
+I was a top-level kitesurfer for a long time, so I like to get out on the water. 
+And if not, I'm starting to sew and I really like doing it, but I miss having friends to chat with when I'm sewing. 
+In my spare time I also play classical piano and go climbing.
