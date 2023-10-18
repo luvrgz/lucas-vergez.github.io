@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucas Vergez Portfolio"
+title                    : "Lucas Vergez"
 title_separator          : "-"
 name                     : &name "Lucas Vergez"
 description              : &description "PhD in Computer-Aided Design at Aix-en-Pce / FRANCE."
