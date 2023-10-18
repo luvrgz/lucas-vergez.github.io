@@ -1,7 +1,7 @@
 ---
 title: "Automatic CAD Assemblies Generation by Linkage Graph Overlay for Machine Learning Applications"
 collection: publications
-permalink: /publication/automaticvergez2022
+permalink: /publications/automaticvergez2022
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-01-01
 venue: 'Computer-Aided Design & Applications'
