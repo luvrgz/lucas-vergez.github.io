@@ -12,9 +12,6 @@ Employing skin-like tactile sensors on robots enhances both the safety and usabi
 
 [Download the preprint version here](https://arxiv.org/pdf/2206.11350.pdf)
 
-[![Final video of fixing issues in your code in VS Code]
-(https://img.youtube.com/vi/Tu9BA_Mq2sI/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=Tu9BA_Mq2sI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tu9BA_Mq2sI?si=0k3EYilJ__BfJiff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

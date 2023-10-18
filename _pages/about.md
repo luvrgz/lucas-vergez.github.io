@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic personnal website of Lucas Vergez"
+title: "Lucas Vergez"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,8 @@ I'm passionate about hiking and nature sports, I read a lot of comics, and I'm a
 What I am looking for
 ======
 
-I'd like to become a lecturer in computer-aided design in the long term. I love teaching students, and academic research allows me to constantly push the boundaries of knowledge so that I can pass on more and more knowledge to those who want to learn. At the end of my PhD, I'd like to do a postdoc in a foreign country. I continued my PhD 150km from where I was born, so I'm looking for adventure in a slightly different culture! I'm passionate about all projects involving artificial intelligence applied to design. Particularly when AI is used to solve design aid problems, whether for direct design or reverse engineering. 
+I'd like to become a lecturer in Computer-Aided Design in the long term. 
+I love teaching students, and academic research allows me to constantly push the boundaries of knowledge so that I can pass on more and more knowledge to those who want to learn. At the end of my PhD, I'd like to do a postdoc in a foreign country. I continued my PhD 150km from where I was born, so I'm looking for adventure in a slightly different culture! I'm passionate about all projects involving artificial intelligence applied to design. Particularly when AI is used to solve design aid problems, whether for direct design or reverse engineering. 
 
 What I am doing now
 ======
@@ -28,7 +29,8 @@ I'm doing a thesis on automatic generation of CAD assemblies. Automatic CAD mode
 - interface-based part search
 - automatic semantic classification of parts
 - automatic constraint search....  
-I really like my PhD topic and this is why I wouuld like to continue to do research in theses topics.
+
+I really like my PhD topic and this is why I would like to continue to do research in theses topics.
 
 What I like
 ======
