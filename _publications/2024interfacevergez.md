@@ -11,7 +11,7 @@ citation: 'VERGEZ, Lucas, POLETTE, Arnaud, et PERNOT, Jean-Philippe. Interface-b
 
 This last paper has been accepted the 8th oh October 2023. It introduces a new framework for reassembling CAD models of mechanical parts. 
 Here is the overall method done in the paper:
-<img src='/images/overall.png'>
+<img src='/images/CAD2023.png'>
 
 The generated CAD assemblies are well- constrained, with **collision-free parts**, and they are ready-to-use for downstream applications. 
 First, input dead CAD models candidate
