@@ -2,7 +2,7 @@
 title: "Interface-based search and automatic reassembly of CAD models for database expansion and model reuse"
 collection: publications
 permalink: /publications/2024interfacevergez
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: <img src='/images/CAD2023.png'>
 date: 2024-01-02
 venue: 'Computer-Aided Design Journal'
 paperurl: ''
