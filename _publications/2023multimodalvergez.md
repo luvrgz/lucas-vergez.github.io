@@ -2,7 +2,7 @@
 title: "Vision-and Tactile-Based Continuous Multimodal Intention and Attention Recognition for Safer Physical Human–Robot Interaction"
 collection: publications
 permalink: /publications/2023multimodalvergez
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: <img src='/images/overall.png'>
 date: 2023-01-01
 venue: 'IEEE Transactions on Automation Science and Engineering'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10144527'
